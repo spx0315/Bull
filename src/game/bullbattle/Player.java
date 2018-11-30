@@ -31,4 +31,4 @@ public class Player {
                 else if(amount < 2){
         System.out.println("一个人玩什么斗牛？");
         }
-        else {*/
+        else */
